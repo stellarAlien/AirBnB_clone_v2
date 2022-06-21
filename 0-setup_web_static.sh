@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Double the number of webservers.
+# Doub  le the number of webservers.
 sudo apt-get update
 sudo apt-get -y install nginx
 sudo touch index.html /var/www/html/
